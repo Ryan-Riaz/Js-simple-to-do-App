@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&display=swap");
+body {
+	width: 100vw;
+	height: 100vh;
+	background: linear-gradient(55deg, #ee9ca7, #ffdde1);
+	font-family: "Heebo", sans-serif;
+}
+#main-header {
+	background: #2c3e50;
+}
